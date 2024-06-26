@@ -1,4 +1,3 @@
-# Author: Dhaval Patel. Codebasics YouTube Channel
 
 import re
 
